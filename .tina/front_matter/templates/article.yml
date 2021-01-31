@@ -16,6 +16,6 @@ fields:
       source:
         type: pages
         section: authors
-
 pages:
   - content/posts/hello-world.md
+  - content/posts/okboomer.md
